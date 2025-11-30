@@ -12,9 +12,7 @@ Trained on **17k+ images** (Hard Hat Workers dataset).
 ---
 
 ## Demo
-![NO HELMET ALERT]([https://drive.google.com/file/d/10Q8P5-jVTJC80EJsYyaGmk-H0oxwT_Cn/view?usp=sharing](https://drive.google.com/file/d/10Q8P5-jVTJC80EJsYyaGmk-H0oxwT_Cn/view?usp=sharing) )
-
-https://drive.google.com/file/d/10Q8P5-jVTJC80EJsYyaGmk-H0oxwT_Cn/view?usp=sharing 
+![NO HELMET ALERT]
 
 ---
 
